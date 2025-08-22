@@ -58,6 +58,11 @@ Here are some instructions to help you set up this project locally.
 
 ---
 
+## Prerequisites
+
+- Knowledge of Python
+- Knowledge of Neural Networks (though most of the emphasis here is on the matrices and vectors mathematic operations to be reviewed)
+
 ## Installation Steps
 
 The Python version used for this project is `Python 3.12` to be compatible with `PyTorch`.
@@ -128,6 +133,12 @@ I would like to extend my gratitude to all the individuals and organizations who
 Specifically, I would like to acknowledge:
 
 - [Joshua Starmer - StatQuest](https://www.youtube.com/watch?v=ZTt9gsGcdDo&list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1&index=27). This project was inspired by his "Essential matrix alegebra for Neural Networks, Clearly explained!!!" video. Thanks!
+
+- (https://github.com/greyhatguy007/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-Coursera/blob/main/C1/w1/lab/C1_W1_Lab_1_introduction_to_numpy_arrays.ipynb)
+
+- https://www.youtube.com/watch?v=per7w0-RAys
+
+- https://github.com/ArenaHernandez?tab=repositories
 
 - [Hema Kalyan Murapaka](https://www.linkedin.com/in/hemakalyan) and [Benito Martin](https://martindatasol.com/blog) for sharing their README.md templates upon which I have derived my README.md.
 
