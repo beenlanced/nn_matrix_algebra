@@ -35,9 +35,9 @@ The project contains the key elements:
 - `Git` (version control),
 - `Jupyter` python coded notebooks,
 - `Matrix Alegbra` performing operations on vectors, matrices, and tensors,
+- `Neural Network (NN)` neural networks to build encoders and decoder transformers,
 - `Python` the standard modules,
 - `PyTorch` Machine Learning framework to train our deep neural network,
-- `Neural Network (NN)` neural networks to build encoders and decoder transformers,
 - `Tensors` mathematical objects that generalize scalars, vectors, and matrices into higher dimensions. A multi-dimensional array of numbers,
 - `uv` package management including use of `ruff` for linting and formatting
 
