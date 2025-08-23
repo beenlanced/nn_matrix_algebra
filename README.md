@@ -1,10 +1,10 @@
-# Understanding Neural Network Matrix Algebra and Notation - (note Repo is in Progress)
+# Understanding Neural Network Matrix Algebra and Notation
 
 <p>
-  <img alt="Neural Network Matrix Algebra" src="imgs/lstm_intro.png"/>
+  <img alt="Neural Network Matrix Algebra and Notation" src="imgs/nn_matrix_math.png"/>
 </p>
 
-[img source]()
+[img source](https://becominghuman.ai/understanding-neural-networks-2-the-math-of-neural-networks-in-3-equations-6085fd3f09df)
 
 ## Project Description
 
@@ -22,7 +22,8 @@ Fun, right!
 
 The Jupyter notebooks,
 
-- Notebook x - TBD
+- Notebook 1 - Describes vector and matrix operations
+- Notebook 2 - Provides a detailed example of an encoder-decoder tranformer neural network with all of matrices and matrix math.
 
 ---
 
@@ -36,7 +37,7 @@ The project contains the key elements:
 - `Matrix Alegbra` performing operations on vectors, matrices, and tensors,
 - `Python` the standard modules,
 - `PyTorch` Machine Learning framework to train our deep neural network,
-- `Neural Network (RNN)` feedback loop neural networks to process sequential data,
+- `Neural Network (NN)` neural networks to build encoders and decoder transformers,
 - `Tensors` mathematical objects that generalize scalars, vectors, and matrices into higher dimensions. A multi-dimensional array of numbers,
 - `uv` package management including use of `ruff` for linting and formatting
 
@@ -47,7 +48,6 @@ The project contains the key elements:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
@@ -78,7 +78,7 @@ Follow the requirements for [Using uv with PyTorch](https://docs.astral.sh/uv/gu
 1. Clone the repo (or download it as a zip file):
 
    ```bash
-   git clone https://github.com/beenlanced/ltsm_project_pytorch.git
+   git clone https://github.com/beenlanced/nn_matrix_algebra.git
    ```
 
 2. Create a virtual environment named `.venv` using `uv` Python version 3.12:
@@ -133,12 +133,6 @@ I would like to extend my gratitude to all the individuals and organizations who
 Specifically, I would like to acknowledge:
 
 - [Joshua Starmer - StatQuest](https://www.youtube.com/watch?v=ZTt9gsGcdDo&list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1&index=27). This project was inspired by his "Essential matrix alegebra for Neural Networks, Clearly explained!!!" video. Thanks!
-
-- (https://github.com/greyhatguy007/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-Coursera/blob/main/C1/w1/lab/C1_W1_Lab_1_introduction_to_numpy_arrays.ipynb)
-
-- https://www.youtube.com/watch?v=per7w0-RAys
-
-- https://github.com/ArenaHernandez?tab=repositories
 
 - [Hema Kalyan Murapaka](https://www.linkedin.com/in/hemakalyan) and [Benito Martin](https://martindatasol.com/blog) for sharing their README.md templates upon which I have derived my README.md.
 
